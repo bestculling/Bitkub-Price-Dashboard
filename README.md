@@ -4,6 +4,10 @@
 
 <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=022" alt="Bitcoin logo" width="32" height="32"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=022" alt="Ethereum logo" width="32" height="32"> <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=022" alt="Solana logo" width="32" height="32"> 
 
+## Preview
+
+![App Preview](/public/preview.png)
+
 ### คุณสมบัติ ✨
 
 - แสดงราคา Cryptocurrency แบบเรียลไทม์ ⚡
